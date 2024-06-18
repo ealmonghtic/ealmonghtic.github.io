@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ealmonghtic.github.io/sitemap
+Sitemap: https://ealmonghtic.github.io/app/sitemap
+Sitemap: https://ealmonghtic.github.io/assets/sitemap
+Sitemap: https://ealmonghtic.github.io/css/sitemap
+Sitemap: https://ealmonghtic.github.io/includes/sitemap
+Sitemap: https://ealmonghtic.github.io/item/sitemap
+Sitemap: https://ealmonghtic.github.io/src/sitemap
